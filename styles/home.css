@@ -6,7 +6,8 @@
     font-size: 50px;
     background-color: pink;
 
-    &::before {
-        content: "teste now";
-    }
+}
+
+.main::before {
+    content: "teste now";
 }

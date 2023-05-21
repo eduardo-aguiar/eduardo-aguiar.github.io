@@ -12,7 +12,7 @@
     "react-typewriter": "^0.4.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://eduardo-aguiar.github.io/eduardo-aguiar.github.io",
+  "homepage": "https://eduardo-aguiar.github.io/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

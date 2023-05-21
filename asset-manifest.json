@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eduardo-aguiar.github.io/static/css/main.46dec719.chunk.css",
+    "main.js": "/eduardo-aguiar.github.io/static/js/main.c8ea7101.chunk.js",
+    "main.js.map": "/eduardo-aguiar.github.io/static/js/main.c8ea7101.chunk.js.map",
+    "runtime-main.js": "/eduardo-aguiar.github.io/static/js/runtime-main.647ad6eb.js",
+    "runtime-main.js.map": "/eduardo-aguiar.github.io/static/js/runtime-main.647ad6eb.js.map",
+    "static/js/2.2ba97306.chunk.js": "/eduardo-aguiar.github.io/static/js/2.2ba97306.chunk.js",
+    "static/js/2.2ba97306.chunk.js.map": "/eduardo-aguiar.github.io/static/js/2.2ba97306.chunk.js.map",
+    "index.html": "/eduardo-aguiar.github.io/index.html",
+    "static/css/main.46dec719.chunk.css.map": "/eduardo-aguiar.github.io/static/css/main.46dec719.chunk.css.map",
+    "static/js/2.2ba97306.chunk.js.LICENSE.txt": "/eduardo-aguiar.github.io/static/js/2.2ba97306.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647ad6eb.js",
+    "static/js/2.2ba97306.chunk.js",
+    "static/css/main.46dec719.chunk.css",
+    "static/js/main.c8ea7101.chunk.js"
+  ]
+}

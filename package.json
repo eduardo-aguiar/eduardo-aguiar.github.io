@@ -1,7 +1,7 @@
 {
   "name": "resume_starter_pack",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
@@ -12,7 +12,10 @@
     "react-typewriter": "^0.4.1",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "https://eduardo-aguiar.github.io/",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
